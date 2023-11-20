@@ -38,7 +38,7 @@ sys.path.insert(1, os.path.join('/opt/victronenergy/dbus-systemcalc-py', 'ext', 
 from vedbus import VeDbusService, VeDbusItemImport
 
 
-os.environ['TZ'] = 'Australia/Sydney'
+os.environ['TZ'] = 'Australia/Adelaide'
 time.tzset();
 
 
