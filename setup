@@ -17,7 +17,7 @@ source "/data/SetupHelper/CommonResources"
 
 # GitHub account info - fill in as appropriate
 # to include this package in SetupHelper automatic updates
-packageGitHubUser="NJGould"
+packageGitHubUser="bigjsl"
 packageGitHubBranch="main"
 
 #### end of lines to include SetupHelper
